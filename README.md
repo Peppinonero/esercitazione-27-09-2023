@@ -4,4 +4,4 @@ esercitazione su cisco packet tracer 27.09.2023
 ![rete](https://github.com/Peppinonero/Peppinonero/assets/145902890/e669f3ba-a42b-4cd8-9f4d-b5b148c62aba)
 ![Server DHCP](https://github.com/Peppinonero/Peppinonero/assets/145902890/f868a3cf-47e8-47b8-8b7f-cc7cd6f92610)
 ![Server DNS](https://github.com/Peppinonero/Peppinonero/assets/145902890/eba2c2ca-7d4b-4d8f-9914-dff53a186c50)
-![simulazione di rete](https://github.com/Peppinonero/Peppinonero/assets/145902890/f50789a5-c2e7-45e7-9954-2ee1983a9eaf)
+![simulazione di rete](https://github.com/Peppinonero/esercitazione-27-09-2023/assets/145902890/7cd7d673-f827-433f-af5a-ad3db8e0b362)
